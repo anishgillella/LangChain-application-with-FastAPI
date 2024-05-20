@@ -1,7 +1,5 @@
 # LangChain-application-with-FastAPI
 
-# Langchain Chatbot Repository
-
 ## Overview
 This repository contains two Python scripts, `app.py` and `client.py`, which use the Langchain library to create a chatbot application. The chatbot leverages both OpenAI's GPT-3.5-turbo and the open-source model LLaMA2 through the Ollama API to generate essays and poems based on user input. 
 
